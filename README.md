@@ -7,11 +7,10 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 ### ✅ Completed
 
+- [x] **Lesson 1: Introduction - *24/02/26***
+
 
 ### 🔜 Upcoming
-
-- [ ] **Lesson 1: Introduction**
-
 
 - [ ] **Lesson 2: Basics**
 
