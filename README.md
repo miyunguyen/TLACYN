@@ -9,10 +9,9 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 1: Introduction - *24/02/26***
 
+- [x] **Lesson 2: Basics**
 
 ### 🔜 Upcoming
-
-- [ ] **Lesson 2: Basics**
 
 
 - [ ] **Lesson 3: Search**
