@@ -11,10 +11,9 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 2: Basics**
 
+- [x] **Lesson 3: Search**
+
 ### 🔜 Upcoming
-
-
-- [ ] **Lesson 3: Search**
 
 
 - [ ] **Lesson 4: Sort**
