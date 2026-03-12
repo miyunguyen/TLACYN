@@ -14,13 +14,13 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 4: Sort**
 
+- [x] **Lesson 5: Array**
+
+- [x] **Lesson 6: Recursion**
+
+- [x] **Lesson 7: Quicksort**
+
 ### 🔜 Upcoming
-
-- [ ] **Lesson 5: Array**
-
-- [ ] **Lesson 6: Recursion**
-
-- [ ] **Lesson 7: Quicksort**
 
 - [ ] **Lesson 8: Doubly Linked List**
 
