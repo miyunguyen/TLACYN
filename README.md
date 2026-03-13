@@ -20,9 +20,9 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 7: Quicksort**
 
-### 🔜 Upcoming
+- [x] **Lesson 8: Doubly Linked List**
 
-- [ ] **Lesson 8: Doubly Linked List**
+### 🔜 Upcoming
 
 - [ ] **Lesson 9: Trees**
 
