@@ -22,9 +22,9 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 8: Doubly Linked List**
 
-### 🔜 Upcoming
+- [x] **Lesson 9: Trees**
 
-- [ ] **Lesson 9: Trees**
+### 🔜 Upcoming
 
 - [ ] **Lesson 10: Tree Search**
 
