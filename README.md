@@ -24,11 +24,11 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 9: Trees - _14/03/26_**
 
-- [ ] **Lesson 10: Tree Search - _19/03/26_**
+- [x] **Lesson 10: Tree Search - _19/03/26_**
+
+- [x] **Lesson 11: Heap - _23/03/26_**
 
 ### 🔜 Upcoming
-
-- [ ] **Lesson 11: Heap**
 
 - [ ] **Lesson 12: Graphs**
 
