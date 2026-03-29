@@ -28,9 +28,9 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 11: Heap - _23/03/26_**
 
-### 🔜 Upcoming
+- [x] **Lesson 12: Graphs - _29/03/26_**
 
-- [ ] **Lesson 12: Graphs**
+### 🔜 Upcoming
 
 - [ ] **Lesson 13: Maps & LRU**
 
