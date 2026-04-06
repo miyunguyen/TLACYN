@@ -30,11 +30,11 @@ This repository documents my personal learning experience of "The Last Algorithm
 
 - [x] **Lesson 12: Graphs - _29/03/26_**
 
+- [x] **Lesson 13: Maps & LRU - _06/04/26_**
+
+- [x] **Lesson 14: Wrapping Up - _06/04/26_**
+
 ### 🔜 Upcoming
-
-- [ ] **Lesson 13: Maps & LRU**
-
-- [ ] **Lesson 14: Wrapping Up**
 
 ## 📌 Resources
 
